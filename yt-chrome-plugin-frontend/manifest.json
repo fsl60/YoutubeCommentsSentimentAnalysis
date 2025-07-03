@@ -10,7 +10,7 @@
     "tabs",
     "activeTab",
     "scripting",
-    "http://localhost/*",
+    "https://youtubecommentssentimentanalysis.onrender.com/*",
     "https://www.googleapis.com/*"
   ]
 }
